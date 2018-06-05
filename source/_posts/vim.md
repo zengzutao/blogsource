@@ -4,7 +4,7 @@ categories: VIM
 author: Jack
 tags:
     - VIM
-cover_picture: images/trace.jpg
+cover_picture: images/vim.jpg
 top: 0
 ---
 
