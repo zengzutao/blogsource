@@ -39,8 +39,7 @@ top: 0
 2.安装。
 3.激活。
 
-备注：install -> installed -> actvating -> Active -> Activated -> Redundant
-
+* 备注：install -> installed -> actvating -> Active -> Activated -> Redundant
 
 ### 五、使用场景
 
@@ -73,7 +72,7 @@ top: 0
 10.可连接性 – 通过 URL 可以轻松分享应用，不用复杂的安装即可运行。
 
 #### 参考
+
 * Service Worker的使用 、安全、桌面图标下次详谈
 * http://lzw.me/a/pwa-service-worker.html
 * https://developer.mozilla.org/zh-CN/docs/Web/API/Service_Worker_API
-
